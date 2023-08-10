@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<layer_list xmlns:android="http://schemas.android.com/apk/res/android">
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item>
         <shape
             android:innerRadiusRatio="2.7"
@@ -7,8 +7,7 @@
             android:thicknessRatio="50.0"
             android:useLevel="false">
 
-            <solid android:color="#D4DEE7"/>
+            <solid android:color="#D4DEE7" />
         </shape>
-
     </item>
-</layer_list>
+</layer-list>
